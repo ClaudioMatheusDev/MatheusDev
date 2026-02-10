@@ -101,11 +101,11 @@ const config: Config = {
             },
             {
               label: 'Projetos',
-              to: '/docs/intro',
+              to: 'docs/intro',
             },
             {
               label: 'Blog',
-              to: '/blog',
+              to: 'blog',
             },
           ],
         },

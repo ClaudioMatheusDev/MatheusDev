@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="docs/intro">
             Ver Projetos 📂
           </Link>
           <Link
@@ -64,7 +64,7 @@ function ProjectsSection() {
     {
       title: 'Work Session Tracker',
       description: 'Aplicação para registrar sessões de trabalho',
-      link: '/docs/projetos/WorkSessionTracker',
+      link: 'docs/projetos/WorkSessionTracker',
       tags: ['React', 'ASP.NET', 'SQL Server']
     }
   ];
